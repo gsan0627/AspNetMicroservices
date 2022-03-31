@@ -1,5 +1,4 @@
-﻿using Discount.API.Entities;
-using Discount.Grpc.Entities;
+﻿using Discount.Grpc.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
